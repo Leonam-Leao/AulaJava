@@ -15,5 +15,6 @@ public class Media {
             System.out.println("Reprovado");
         }
         scanner.close();
+        
     }
 }
